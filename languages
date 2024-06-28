@@ -7,7 +7,7 @@
         "expiryDate": "Expiry Date",
         "cvvCode": "CVV code"
     },
-    "vi": {
+    "vn": {
         "cardHolderName": "Tên chủ thẻ",
         "cardHolderPlaceholder": "Nhập tên giống như trên thẻ của bạn",
         "cardNumber": "Số thẻ",
