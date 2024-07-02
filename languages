@@ -5,7 +5,9 @@
         "cardNumber": "Card Number",
         "cardNumberPlaceholder": "Enter your card number",
         "expiryDate": "Expiry Date",
-        "cvvCode": "CVV code"
+        "cvvCode": "CVV code",
+        "cvvToolTip": "3-digit security code usually found on the back of your card. American Express cards have a 4-digit code located on the front.",
+        "successValidation": "Looks good!"
     },
     "vn": {
         "cardHolderName": "Tên chủ thẻ",
@@ -13,6 +15,8 @@
         "cardNumber": "Số thẻ",
         "cardNumberPlaceholder": "Nhập số thẻ của bạn",
         "expiryDate": "Ngày hết hạn",
-        "cvvCode": "Mã CVV"
+        "cvvCode": "Mã CVV",
+        "cvvToolTip": "3-digit security code usually found on the back of your card. American Express cards have a 4-digit code located on the front.",
+        "successValidation": "Có vẻ tốt!"
     }
 }
