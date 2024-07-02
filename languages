@@ -9,7 +9,7 @@
         "cvvToolTip": "3-digit security code usually found on the back of your card. American Express cards have a 4-digit code located on the front.",
         "successValidation": "Looks good!",
         "submitPayment": "Submit payment",
-        "acceptedCards": "Accepted Cards",
+        "acceptedCards": "Accepted Cards"
     },
     "vn": {
         "cardHolderName": "Tên chủ thẻ",
@@ -21,6 +21,6 @@
         "cvvToolTip": "Mã bảo mật gồm 3 chữ số thường được tìm thấy ở mặt sau thẻ của bạn. Thẻ American Express có mã gồm 4 chữ số nằm ở mặt trước.",
         "successValidation": "Có vẻ tốt!",
         "submitPayment": "Gửi thanh toán",
-        "acceptedCards": "Thẻ được chấp nhận",
+        "acceptedCards": "Thẻ được chấp nhận"
     }
 }
